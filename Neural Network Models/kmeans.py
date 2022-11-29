@@ -45,17 +45,3 @@ for i in range(200):
     dst = cv2.applyColorMap(img_gray, 1)
     cv2.imwrite(save_path2, dst)
 
-# for i in range(200):
-#   labels = kmeans.fit_predict(X[i])
-#   pic = labels.reshape(1080,1920)
-#   save_out = save_path + str(i) + ".jpg"
-#   matplotlib.image.imsave(save_out, pic)
-#
-# # 保存图片的文件夹名称
-# kmeans = KMeans(random_state=0, init='random', n_clusters=2)
-# save_path = "D:/Lancaster-MSC/Satellite-Image/suppervised-train-200/seg2/"
-# for i in range(200):
-#   labels = kmeans.fit_predict(X[i])
-#   pic = labels.reshape(1080,1920)
-#   save_out = save_path + str(i) + ".jpg"
-#   matplotlib.image.imsave(save_out, pic)
