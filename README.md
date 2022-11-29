@@ -12,4 +12,11 @@
 
 ### Data Pre-processing
 * I chose 200 images as the trainning set for my Neural Network, 150 of which were the train set and the remaining 50 were the test set. To begin with, I used the k-means algorithm to segment the original image, labelling the lake area and the background area of the image using different colours, then using ColorMap to greyscale the image, and finally converting the image into a black and white segmented image by manual adjustment. 
-<img scr="/data&graph/Fig1.png" alt="Original-kmeans-mask/>
+
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/Fig1.png)
+
+## Neural Network Models
+* Three deep neural network models (FCN, U-net and Segnet) are used in this project and detailed code is provided in the Neural Network Models file, which includes how to place images as input layers into the neural network and the performance scores for each model.
+
+* 
+
