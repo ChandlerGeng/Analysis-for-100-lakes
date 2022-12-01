@@ -27,4 +27,8 @@
 ## Findings and Discussion
 * By using the above method I have derived data on the change in area of each lake over a 30 year period and used the rate of change in area to analyse the growth and shrinkage of the lake and finally displayed this change on a global map using the BaseMap library in Python. The rate of change is shown in blue if it is ±5%, increasing yellow if it is greater than 5% (the more it grows the brighter the yellow), and increasing red if it is less than 5%.
 
-![image](
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/world_variation.png)
+
+* The above graph shows that the lake area in the Tibetan Plateau region has generally shown an increasing trend due to the effects of glacial melt and increased rainfall. Between 1991 and 1997 there was a slight decrease in lake area due to the delayed permafrost effect. The graph below shows the change in area of the three lakes in the region.
+
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/
