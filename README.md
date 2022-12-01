@@ -31,4 +31,10 @@
 
 * The above graph shows that the lake area in the Tibetan Plateau region has generally shown an increasing trend due to the effects of glacial melt and increased rainfall. Between 1991 and 1997 there was a slight decrease in lake area due to the delayed permafrost effect. The graph below shows the change in area of the three lakes in the region.
 
-![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/Himalayas.png)
+
+* Another noticeable phenomenon is the severe reduction in the size of lakes in Central Asia, especially in southern Afghanistan, which have almost disappeared in the last 10 years.
+
+* From a global perspective, there is a declining trend in the overall size of the lake. Even more interesting is the fact that the area of the lake fluctuates almost every three years. The reasons for this phenomenon have yet to be analysed and demonstrated.
+
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/figure4.png)
