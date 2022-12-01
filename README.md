@@ -22,4 +22,9 @@
 
 * Finally I used the idea of Ensemble Learning to optimise the predictions of several neural network models using a Weighted Voting method to obtain a more accurate segmentation graph.
 
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/ensemble-new.png)
+
+## Findings and Discussion
+* By using the above method I have derived data on the change in area of each lake over a 30 year period and used the rate of change in area to analyse the growth and shrinkage of the lake and finally displayed this change on a global map using the BaseMap library in Python. The rate of change is shown in blue if it is ±5%, increasing yellow if it is greater than 5% (the more it grows the brighter the yellow), and increasing red if it is less than 5%.
+
 ![image](
