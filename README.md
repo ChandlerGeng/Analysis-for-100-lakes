@@ -16,7 +16,7 @@
 ![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/Fig1.png)
 
 ## Neural Network Models
-* Three deep neural network models (FCN, U-net and Segnet) are used in this project and detailed code is provided in the Neural Network Models file, which includes how to place images as input layers into the neural network and the performance scores for each model.
+* Three deep neural network models (FCN, U-net and Segnet) are used in this project and detailed code is provided in the Neural Network Models file, which includes how to place images as input layers into the neural network and the performance scores for each model. Besides, 
 
 * 
 
