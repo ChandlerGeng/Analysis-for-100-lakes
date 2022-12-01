@@ -16,7 +16,10 @@
 ![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/Fig1.png)
 
 ## Neural Network Models
-* Three deep neural network models (FCN, U-net and Segnet) are used in this project and detailed code is provided in the Neural Network Models file, which includes how to place images as input layers into the neural network and the performance scores for each model. Besides, 
+* Three deep neural network models (FCN, U-net and Segnet) are used in this project and detailed code is provided in the Neural Network Models file, which includes how to place images as input layers into the neural network and the performance scores for each model. In addition I compared the performance scores of these models, with U-net having the best overall performance.
 
-* 
+![image](https://github.com/ChandlerGeng/Analysis-for-100-lakes/blob/main/data%26graph/model-performance.png)
 
+* Finally I used the idea of Ensemble Learning to optimise the predictions of several neural network models using a Weighted Voting method to obtain a more accurate segmentation graph.
+
+![image](
